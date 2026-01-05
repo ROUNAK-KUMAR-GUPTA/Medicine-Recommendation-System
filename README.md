@@ -1,5 +1,6 @@
-<img width="1783" height="845" alt="Screenshot 2026-01-06 013221" src="https://github.com/user-attachments/assets/b34db027-4a56-4fe9-b0a6-9b6b9638d5b1" />
 # Personalized-Medical-Recommendation-System-with-Machine-Learning
+
+<img width="1783" height="845" alt="Screenshot 2026-01-06 013221" src="https://github.com/user-attachments/assets/b34db027-4a56-4fe9-b0a6-9b6b9638d5b1" />
 Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
 
 User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
