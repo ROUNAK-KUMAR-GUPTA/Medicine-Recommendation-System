@@ -1,3 +1,4 @@
+<img width="1783" height="845" alt="Screenshot 2026-01-06 013221" src="https://github.com/user-attachments/assets/b34db027-4a56-4fe9-b0a6-9b6b9638d5b1" />
 # Personalized-Medical-Recommendation-System-with-Machine-Learning
 Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
 
@@ -14,4 +15,4 @@ Privacy and Security: We prioritize user privacy and data security. Your health 
 Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
 
 Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
-<img width="1783" height="845" alt="Screenshot 2026-01-06 013221" src="https://github.com/user-attachments/assets/b34db027-4a56-4fe9-b0a6-9b6b9638d5b1" />
+
